@@ -1,0 +1,5 @@
+import 'dart:ui';
+
+class AppColors{
+  static const Color appColor = Color (0xff25727a);
+}
